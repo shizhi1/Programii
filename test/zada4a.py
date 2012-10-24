@@ -8,7 +8,7 @@ with open('zada4a.csv', 'rb') as f:
 
     aList = []
 
-        another = [zada4a.csv[1]]
+        another = [zada4a.csv]
 
         print another
 
